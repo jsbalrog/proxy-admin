@@ -34,7 +34,7 @@ Each of the links below represents a snapshot of the code at a point in the pres
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/jsbalrog/proxy-admin.git
+    git clone https://github.com/jsbalrog/proxy-admin.git
 
 Change into the directory:
 
