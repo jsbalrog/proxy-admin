@@ -70,9 +70,9 @@ And you can switch between branches with the checkout command. For example, to c
     git co 06_Create_Web_Server_APIs
 
 
-[00]: https://github.com/buffalobillion/proxy-admin/tree/00_Blank_Slate
-[01]: https://github.com/buffalobillion/proxy-admin/tree/01_Create_Node_App_And_Static_File_Server
-[02]: https://github.com/buffalobillion/proxy-admin/tree/02_Create_Angular_App_And_Basic_Nav
-[03]: https://github.com/buffalobillion/proxy-admin/tree/03_Create_Angular_Controllers
-[04]: https://github.com/buffalobillion/proxy-admin/tree/04_Communicate_Between_Controllers_Using_Service
-[05]: https://github.com/buffalobillion/proxy-admin/tree/05_Hook_Up_Server_Side
+[00]: https://github.com/jsbalrog/proxy-admin/tree/00_Blank_Slate
+[01]: https://github.com/jsbalrog/proxy-admin/tree/01_Create_Node_App_And_Static_File_Server
+[02]: https://github.com/jsbalrog/proxy-admin/tree/02_Create_Angular_App_And_Basic_Nav
+[03]: https://github.com/jsbalrog/proxy-admin/tree/03_Create_Angular_Controllers
+[04]: https://github.com/jsbalrog/proxy-admin/tree/04_Communicate_Between_Controllers_Using_Service
+[05]: https://github.com/jsbalrog/proxy-admin/tree/05_Hook_Up_Server_Side
