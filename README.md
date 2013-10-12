@@ -34,11 +34,11 @@ Each of the links below represents a snapshot of the code at a point in the pres
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/buffalobillion/proxy-admin.git
+    git clone git://github.com/jsbalrog/proxy-admin.git
 
 Change into the directory:
 
-    cd angular-node
+    cd proxy-admin
 
 By default, the git clone command will only create the master branch locally. If you want to study the code at each checkpoint, you will have to fetch each of the other branches. You can do so by running the following:
 
@@ -57,4 +57,4 @@ And you can switch between branches with the checkout command. For example, to c
     git co 06_Create_Web_Server_APIs
 
 
-[03]: https://github.com/buffalobillion/proxy-admin/tree/03_Create_Angular_Controllers
+[03]: https://github.com/jsbalrog/proxy-admin/tree/03_Create_Angular_Controllers
